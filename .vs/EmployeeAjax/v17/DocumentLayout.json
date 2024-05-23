@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75C1583B-B0C6-43E5-AD1A-EFFBFABBBA26}|EmployeeAjax\\EmployeeAjax.csproj|C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\employeeajax\\views\\ajax\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75C1583B-B0C6-43E5-AD1A-EFFBFABBBA26}|EmployeeAjax\\EmployeeAjax.csproj|solutionrelative:employeeajax\\views\\ajax\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C1583B-B0C6-43E5-AD1A-EFFBFABBBA26}|EmployeeAjax\\EmployeeAjax.csproj|c:\\users\\prave\\source\\repos\\employeeajax\\employeeajax\\controllers\\ajaxcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C1583B-B0C6-43E5-AD1A-EFFBFABBBA26}|EmployeeAjax\\EmployeeAjax.csproj|solutionrelative:employeeajax\\controllers\\ajaxcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C1583B-B0C6-43E5-AD1A-EFFBFABBBA26}|EmployeeAjax\\EmployeeAjax.csproj|C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\employeeajax\\wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{75C1583B-B0C6-43E5-AD1A-EFFBFABBBA26}|EmployeeAjax\\EmployeeAjax.csproj|solutionrelative:employeeajax\\wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C1583B-B0C6-43E5-AD1A-EFFBFABBBA26}|EmployeeAjax\\EmployeeAjax.csproj|C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\employeeajax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C1583B-B0C6-43E5-AD1A-EFFBFABBBA26}|EmployeeAjax\\EmployeeAjax.csproj|solutionrelative:employeeajax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C1583B-B0C6-43E5-AD1A-EFFBFABBBA26}|EmployeeAjax\\EmployeeAjax.csproj|C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\employeeajax\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75C1583B-B0C6-43E5-AD1A-EFFBFABBBA26}|EmployeeAjax\\EmployeeAjax.csproj|solutionrelative:employeeajax\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C1583B-B0C6-43E5-AD1A-EFFBFABBBA26}|EmployeeAjax\\EmployeeAjax.csproj|C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\employeeajax\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75C1583B-B0C6-43E5-AD1A-EFFBFABBBA26}|EmployeeAjax\\EmployeeAjax.csproj|solutionrelative:employeeajax\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C1583B-B0C6-43E5-AD1A-EFFBFABBBA26}|EmployeeAjax\\EmployeeAjax.csproj|C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\employeeajax\\repo\\entityemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C1583B-B0C6-43E5-AD1A-EFFBFABBBA26}|EmployeeAjax\\EmployeeAjax.csproj|solutionrelative:employeeajax\\repo\\entityemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C1583B-B0C6-43E5-AD1A-EFFBFABBBA26}|EmployeeAjax\\EmployeeAjax.csproj|C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\employeeajax\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75C1583B-B0C6-43E5-AD1A-EFFBFABBBA26}|EmployeeAjax\\EmployeeAjax.csproj|solutionrelative:employeeajax\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C1583B-B0C6-43E5-AD1A-EFFBFABBBA26}|EmployeeAjax\\EmployeeAjax.csproj|C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\employeeajax\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{75C1583B-B0C6-43E5-AD1A-EFFBFABBBA26}|EmployeeAjax\\EmployeeAjax.csproj|solutionrelative:employeeajax\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C1583B-B0C6-43E5-AD1A-EFFBFABBBA26}|EmployeeAjax\\EmployeeAjax.csproj|C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\employeeajax\\context\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C1583B-B0C6-43E5-AD1A-EFFBFABBBA26}|EmployeeAjax\\EmployeeAjax.csproj|solutionrelative:employeeajax\\context\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C1583B-B0C6-43E5-AD1A-EFFBFABBBA26}|EmployeeAjax\\EmployeeAjax.csproj|C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\employeeajax\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75C1583B-B0C6-43E5-AD1A-EFFBFABBBA26}|EmployeeAjax\\EmployeeAjax.csproj|solutionrelative:employeeajax\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C1583B-B0C6-43E5-AD1A-EFFBFABBBA26}|EmployeeAjax\\EmployeeAjax.csproj|C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\employeeajax\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C1583B-B0C6-43E5-AD1A-EFFBFABBBA26}|EmployeeAjax\\EmployeeAjax.csproj|solutionrelative:employeeajax\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C1583B-B0C6-43E5-AD1A-EFFBFABBBA26}|EmployeeAjax\\EmployeeAjax.csproj|C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\EmployeeAjax\\Migrations\\20240514114104_Demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C1583B-B0C6-43E5-AD1A-EFFBFABBBA26}|EmployeeAjax\\EmployeeAjax.csproj|solutionrelative:EmployeeAjax\\Migrations\\20240514114104_Demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\EmployeeAjax\\Views\\Ajax\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeAjax\\Views\\Ajax\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\EmployeeAjax\\Views\\Ajax\\Index.cshtml",
+              "RelativeToolTip": "EmployeeAjax\\Views\\Ajax\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T12:44:23.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AjaxController1.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\EmployeeAjax\\Controllers\\AjaxController1.cs",
+              "RelativeDocumentMoniker": "EmployeeAjax\\Controllers\\AjaxController1.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\EmployeeAjax\\Controllers\\AjaxController1.cs",
+              "RelativeToolTip": "EmployeeAjax\\Controllers\\AjaxController1.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:17:43.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "custom.js",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\EmployeeAjax\\wwwroot\\js\\custom.js",
+              "RelativeDocumentMoniker": "EmployeeAjax\\wwwroot\\js\\custom.js",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\EmployeeAjax\\wwwroot\\js\\custom.js",
+              "RelativeToolTip": "EmployeeAjax\\wwwroot\\js\\custom.js",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwGoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-14T13:11:13.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\EmployeeAjax\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EmployeeAjax\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\EmployeeAjax\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EmployeeAjax\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T12:53:55.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EntityEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\EmployeeAjax\\Repo\\EntityEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeAjax\\Repo\\EntityEmployee.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\EmployeeAjax\\Repo\\EntityEmployee.cs",
+              "RelativeToolTip": "EmployeeAjax\\Repo\\EntityEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:25:08.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\EmployeeAjax\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeAjax\\appsettings.json",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\EmployeeAjax\\appsettings.json",
+              "RelativeToolTip": "EmployeeAjax\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-14T11:34:21.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\EmployeeAjax\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeAjax\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\EmployeeAjax\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EmployeeAjax\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T17:12:19.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\EmployeeAjax\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeAjax\\Program.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\EmployeeAjax\\Program.cs",
+              "RelativeToolTip": "EmployeeAjax\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:33:30.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\EmployeeAjax\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "EmployeeAjax\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\EmployeeAjax\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "EmployeeAjax\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-14T13:02:59.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\EmployeeAjax\\Context\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "EmployeeAjax\\Context\\EmployeeContext.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\EmployeeAjax\\Context\\EmployeeContext.cs",
+              "RelativeToolTip": "EmployeeAjax\\Context\\EmployeeContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:28:24.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\EmployeeAjax\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EmployeeAjax\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\EmployeeAjax\\appsettings.Development.json",
+              "RelativeToolTip": "EmployeeAjax\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-14T12:26:44.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\EmployeeAjax\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EmployeeAjax\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\EmployeeAjax\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EmployeeAjax\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:16:42.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240514114104_Demo.cs",
+              "DocumentMoniker": "C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\EmployeeAjax\\Migrations\\20240514114104_Demo.cs",
+              "RelativeDocumentMoniker": "EmployeeAjax\\Migrations\\20240514114104_Demo.cs",
+              "ToolTip": "C:\\Users\\Prave\\source\\repos\\EmployeeAjax\\EmployeeAjax\\Migrations\\20240514114104_Demo.cs",
+              "RelativeToolTip": "EmployeeAjax\\Migrations\\20240514114104_Demo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:41:04.601Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
